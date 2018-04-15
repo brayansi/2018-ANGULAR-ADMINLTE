@@ -59,5 +59,9 @@
      ]
   </li>
 </ol>
+
 Nota: o parâmetro --spec=false não gera os arquivos de teste para os componentes
-https://pt.linkedin.com/pulse/criando-um-projeto-angular-4-com-template-adminlte-soares-bentes
+
+### ng serve
+
+FONT = https://pt.linkedin.com/pulse/criando-um-projeto-angular-4-com-template-adminlte-soares-bentes
