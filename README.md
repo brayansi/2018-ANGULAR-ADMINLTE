@@ -64,4 +64,6 @@ Nota: o parâmetro --spec=false não gera os arquivos de teste para os component
 
 ### ng serve
 
+<img src="https://www.google.com.br/search?q=adminlte&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiI2s-X27zaAhULFZAKHQYQC8UQ_AUICygC&biw=1366&bih=662#imgrc=eu7gESgp5YZWUM:" alt="adminlye">
+
 FONT = https://pt.linkedin.com/pulse/criando-um-projeto-angular-4-com-template-adminlte-soares-bentes
