@@ -29,23 +29,12 @@
 #### Copie os siguintes codigos para seu peojeto
 
 <ol>
-  <li><a href="">header.component.ts</a></li>
-  <li><a href="">menu.component.ts</a></li>
-  <li><a href="">footer.component.ts</a>
-    <pre>
-      <footer class="main-footer">
-        <div class="pull-right hidden-xs">
-          <b>Version</b> 2.4.0
-        </div>
-        <strong>Copyright &copy; 2014-2016 <a href="https://adminlte.io">Almsaeed Studio</a>.</strong> All rights
-        reserved.
-      </footer>
-    </pre>
-  <li><a href="">settings.component.ts</a></li>
-  <li><a href="">index.html</a></li>
-  <li><a href="">app.component.ts</a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
+  <li><a href="https://github.com/brayansi/2018-angular5-adminlte2.4/blob/master/crudProduct/src/app/header/header.component.html">header.component.ts</a></li>
+  <li><a href="https://github.com/brayansi/2018-angular5-adminlte2.4/blob/master/crudProduct/src/app/menu/menu.component.html">menu.component.ts</a></li>
+  <li><a href="https://github.com/brayansi/2018-angular5-adminlte2.4/blob/master/crudProduct/src/app/footer/footer.component.html">footer.component.ts</a>
+  <li><a href="https://github.com/brayansi/2018-angular5-adminlte2.4/blob/master/crudProduct/src/app/settings/settings.component.html">settings.component.ts</a></li>
+  <li><a href="https://github.com/brayansi/2018-angular5-adminlte2.4/blob/master/crudProduct/src/index.html">index.html</a></li>
+  <li><a href="https://github.com/brayansi/2018-angular5-adminlte2.4/blob/master/crudProduct/src/app/app.component.html">app.component.ts</a></li>
 </ol>
 Nota: o parâmetro --spec=false não gera os arquivos de teste para os componentes
 https://pt.linkedin.com/pulse/criando-um-projeto-angular-4-com-template-adminlte-soares-bentes
