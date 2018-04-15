@@ -59,7 +59,6 @@
      ]
   </li>
 </ol>
-
 Nota: o parâmetro --spec=false não gera os arquivos de teste para os componentes
 
 ### ng serve
