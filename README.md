@@ -39,21 +39,25 @@
 
 #### alterar o angular-cli.json;
 <ol>
-  <li>"styles": [
+  <li>
+    "styles": [
         "styles.css",
         "../node_modules/bootstrap/dist/css/bootstrap.min.css",
         "../node_modules/font-awesome/css/font-awesome.css",
         "../node_modules/jvectormap/jquery-jvectormap.css",
         "../node_modules/admin-lte/dist/css/AdminLTE.min.css",
         "../node_modules/admin-lte/dist/css/skins/_all-skins.min.css"
-      ]</li>
-  <li>"scripts": [
+      ]
+  </li>
+  <li>
+    "scripts": [
         "../node_modules/jquery/dist/jquery.min.js",
         "../node_modules/admin-lte/dist/js/adminlte.min.js",
         "../node_modules/bootstrap/dist/js/bootstrap.min.js",
         "../node_modules/fastclick/lib/fastclick.js",
         "../node_modules/jquery-slimscroll/jquery.slimscroll.js"
-      ],</li>
+     ]
+  </li>
 </ol>
 Nota: o parâmetro --spec=false não gera os arquivos de teste para os componentes
 https://pt.linkedin.com/pulse/criando-um-projeto-angular-4-com-template-adminlte-soares-bentes
