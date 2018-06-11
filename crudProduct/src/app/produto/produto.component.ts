@@ -42,7 +42,7 @@ export class ProdutoComponent implements OnInit {
     deletarProduto(i: any) {
         this.produtos.splice(i,1);
         this.localStorageService.set('produtos', this.produtos);
-        document.getElementById("pessoa-form")['reset']();
+        document.getElementById("produto-form")['reset']();
     }
 
     editarProduto(prod: Produto, i: any) {
